@@ -144,7 +144,7 @@
   font-size: 120px;
   font-weight: 900;
   color: transparent;
-  -webkit-background-clip: content-box;
+  -webkit-background-clip: text;
 }
 
 .task28 {
